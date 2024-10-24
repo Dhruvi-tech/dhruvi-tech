@@ -14,63 +14,90 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I’m Dhruvi Mittal!
+# <span style="font-size: 3em; font-weight: bold;">👋 Hi, I’m Dhruvi Mittal!</span>
 
-I’m a passionate **Cybersecurity Explorer** with a drive to crack codes and secure the digital future. Currently, I’m pursuing a **B.Sc. (Hons) in Computer Science**, specializing in **Cybersecurity** at **RV University**. With a solid foundation in **ethical hacking** and certifications from **IIT Guwahati**, I am constantly evolving to meet the ever-changing cybersecurity landscape.
-
----
-
-## 🌟 About Me:
-
-- 🔭 **Current Work**:  
-   - **Contributor at GirlScript Summer of Code** –actively working on **open-source  projects**, contributing code, and tackling real-world security problems
-   - **Intern at Acmegrade** – gaining hands-on experience in network security, ethical hacking, and vulnerability assessments.  
-
-- 🌱 **Learning Focus**:  
-   I’m focused on improving my expertise in:  
-   - **Ethical Hacking**  
-   - **Cybersecurity Tools**  
-   - **Boolean Logic**  
-   My certifications and ongoing learning keep me up-to-date with the latest industry trends and technologies.
-
-- 👯 **Looking to Collaborate On**:  
-   I’m always excited to collaborate on:  
-   - **Penetration Testing**  
-   - **Vulnerability Assessments**  
-   - **Security Audits**  
-   - **Cybersecurity Research Projects**  
-   Let’s work together to push the boundaries of cybersecurity and address new challenges!
-
-- 💬 **Expertise**:  
-   Ask me about:  
-   - **Ethical Hacking Essentials**  
-   - **Postman API Fundamentals**  
-   - **Network Security Strategies**  
-   I love sharing insights on digital security and collaborating to build safer ecosystems.
-
-- 📚 **Certifications**:  
-   - **Advanced Certification in Cybersecurity** from IIT Guwahati  
-   - **CCSP Certified Training**  
-   - **Ethical Hacking Essentials**  
-   These certifications, combined with practical internships and contributions to open-source projects, have equipped me with the skills to tackle modern cybersecurity threats.
-
-- 📫 **How to Reach Me**:  
-   - Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvi-mittal/)  
-   - Or email me directly at dhruvimittal2066@gmail.com.
-
-- 😄 **Pronouns**: She/Her
-
-- ⚡ **Fun Fact**:  
-   Outside of securing networks, I’m a foodie and a traveler! I love experimenting with new recipes in the kitchen and exploring different cultures. Music is my go-to stress buster, and it fuels my creativity when I’m tackling tough problems.
+<span style="font-size: 1.2em; color: #2c3e50;">Welcome to my GitHub! I’m a passionate **Cybersecurity Explorer** with a relentless drive to crack codes and secure the future of the digital world. Currently, I’m pursuing my B.Sc. (Hons) in Computer Science**, specializing in **Cybersecurity** at **RV University**. With a strong foundation in **ethical hacking**, bolstered by advanced certifications from **IIT Guwahati**, I’m on a mission to tackle the ever-evolving challenges of the cybersecurity landscape.</span>
 
 ---
 
-## 🎯 Career Goals:
+## <span style="font-size: 2em; color: #e74c3c; font-weight: bold;">🌟 About Me:</span>
 
-- **Securing the future** by contributing to the cybersecurity community and staying ahead of emerging threats.  
-- **Collaborating** with industry professionals to develop innovative solutions for cybersecurity challenges.  
-- Expanding my knowledge and expertise in areas like **digital forensics**, **cryptography**, and **threat intelligence**.
-<details>	
+<span style="font-size: 1.2em; color: #34495e;">
+- 🔭 <strong>Current Work:</strong>  
+   - <span style="font-size: 1.1em; color: #3498db;">Contributor at GirlScript Summer of Code</span> – Actively working on open-source projects, contributing code, and solving real-world cybersecurity challenges.
+   - <span style="font-size: 1.1em; color: #3498db;">Intern at Acmegrade</span> – Gaining hands-on experience in network security, ethical hacking, and vulnerability assessments. I’m learning to bridge the gap between academic knowledge and practical application.
+
+- 🌱 <strong>Learning Focus:</strong>  
+   I’m currently diving deep into:  
+   - **Ethical Hacking** 🔐  
+   - **Advanced Cybersecurity Tools** 🛠️  
+   - **Boolean Logic & Security Algorithms** 🧠  
+   I constantly update my knowledge base with the latest industry trends, attending cybersecurity conferences and working with cutting-edge technology.
+
+- 👯 <strong>Looking to Collaborate On:</strong>  
+   I’m always excited to collaborate on:
+   - **Penetration Testing** 🕵️‍♀️ – identifying vulnerabilities before attackers can.  
+   - **Vulnerability Assessments** ⚠️ – ensuring that systems are robust and secure.  
+   - **Security Audits** 🔍 – auditing network security for organizations.  
+   - **Cybersecurity Research Projects** 🖥️ – exploring innovations in cybersecurity defenses, and contributing to meaningful, impactful research.
+  
+   If you’re passionate about **network defense**, **system vulnerabilities**, or **cyber defense research**, let’s connect and build something powerful together!
+
+- 💬 <strong>Expertise:</strong>  
+   I have strong experience in:  
+   - **Ethical Hacking Essentials** 🛡️ – certified in techniques to protect and secure networks.
+   - **Postman API Fundamentals** 📡 – understanding and utilizing APIs for secure data exchange.
+   - **Network Security Strategies** 🔗 – developing and implementing secure network protocols.
+   - **Boolean Logic** 🧠 – applying logic in cybersecurity algorithms and system defenses.
+  
+   I thrive on sharing my knowledge and collaborating to secure the future of the digital world.
+
+- 📚 <strong>Certifications:</strong>  
+   - Advanced Certification in Cybersecurity from IIT Guwahati 🎓  
+   - CCSP Certified Training 🏆  
+   - Ethical Hacking Essentials 🧑‍💻  
+   These certifications have provided me with the skills and expertise needed to tackle today’s advanced cybersecurity threats. Through my hands-on experience in internships and open-source contributions, I’ve honed my practical skills to solve real-world security problems.
+</span>
+
+---
+
+## <span style="font-size: 2em; color: #f39c12; font-weight: bold;">🎯 Career Goals:</span>
+
+<details>
+  <summary style="font-size: 1.2em; color: #16a085;">Click to reveal my career goals</summary>
+  
+  <span style="font-size: 1.2em; color: #34495e;">
+  - Securing the future by contributing to the global cybersecurity community and staying ahead of new, emerging threats. I aim to make the digital world a safer place through ethical hacking, advanced research, and the latest security techniques.
+  - Collaborating with professionals and organizations to develop and implement innovative cybersecurity solutions. I’m particularly interested in penetration testing, digital forensics, and cryptography.
+  - Expanding my expertise in fields such as threat intelligence, cyber law, and digital privacy, aiming to be at the forefront of cybersecurity innovation.
+  </span>
+
+</details>
+
+---
+
+## <span style="font-size: 2em; color: #9b59b6; font-weight: bold;">📫 Contact & Fun Facts:</span>
+
+<details>
+  <summary style="font-size: 1.2em; color: #2980b9;">Click to learn more about me!</summary>
+  
+  <span style="font-size: 1.2em; color: #34495e;">
+  - 📫 How to Reach Me:  
+     - Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvi-mittal/) for professional inquiries.  
+     - Or email me directly at dhruvimittal2066@gmail.com.
+
+  - 😄 **Pronouns**: She/Her
+
+  - ⚡ **Fun Fact**:  
+     Outside of cybersecurity, I’m a curious foodie 🍜 and an avid traveler*✈️! I enjoy experimenting with new recipes and exploring diverse cultures. When I’m not cooking or traveling, you’ll likely find me listening to music 🎶—it helps me stay focused and creative while solving tough problems.
+  </span>
+
+</details>
+
+---
+
+### <span style="font-size: 2em; color: #27ae60; font-weight: bold;">🔒 "Stay Secure, Stay Ahead!"</span>
+
  <summary><b>Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
