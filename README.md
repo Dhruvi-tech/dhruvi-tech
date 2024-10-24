@@ -23,7 +23,7 @@ A passionate Cybersecurity Explorer with a drive to crack codes and secure the d
 👯 Collaborations: Looking to collaborate on penetration testing, vulnerability assessments, and other cybersecurity-related projects that challenge the status quo.
 💬 Expertise: Ask me about Ethical Hacking Essentials, Postman API Fundamentals, and network security strategies. I thrive on sharing knowledge and helping secure digital ecosystems.
 📚 Certifications: I hold certifications in Advanced Cybersecurity, CCSP Certified Training, and Ethical Hacking Essentials, backed by practical experience through internships and code contributions.
-📫 Contact: Feel free to reach out at dhruvimittal2066@gmail.com or connect with me on LinkedIn.
+📫 Contact: Feel free to reach out at https://www.linkedin.com/in/dhruvi-mittal/
 😄 Pronouns: She/Her
 ⚡ Fun Fact: When I’m not securing networks, I enjoy traveling, experimenting in the kitchen, and listening to music—my creative outlets keep me energized!
 🎯 Career Goals:
