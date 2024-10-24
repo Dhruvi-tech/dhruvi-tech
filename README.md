@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   - 😄 **Pronouns**: She/Her
 
   - ⚡ **Fun Fact**:  
-     Outside of cybersecurity, I’m a curious foodie 🍜 and an avid traveler*✈️! I enjoy experimenting with new recipes and exploring diverse cultures. When I’m not cooking or traveling, you’ll likely find me listening to music 🎶—it helps me stay focused and creative while solving tough problems.
+     Outside of cybersecurity, I’m a curious foodie 🍜 and an avid traveler✈️! I enjoy experimenting with new recipes and exploring diverse cultures. When I’m not cooking or traveling, you’ll likely find me listening to music 🎶—it helps me stay focused and creative while solving tough problems.
   </span>
 
 </details>
