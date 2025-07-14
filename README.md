@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # <span style="font-size: 3em; font-weight: bold;">👋 Hi, I’m Dhruvi Mittal!</span>
 
-<span style="font-size: 1.2em; color: #2c3e50;">Welcome to my GitHub! I’m a passionate **Cybersecurity Explorer** with a relentless drive to crack codes and secure the future of the digital world. Currently, I’m pursuing my B.Sc. (Hons) in Computer Science, specializing in **Cybersecurity** at **RV University**. With a strong foundation in **ethical hacking**, bolstered by advanced certifications from **IIT Guwahati**, I’m on a mission to tackle the ever-evolving challenges of the cybersecurity landscape.</span>
+<span style="font-size: 1.2em; color: #2c3e50;">Welcome to my GitHub! I’m a passionate **Cybersecurity Explorer** with a relentless drive to crack codes and secure the future of the digital world. Currently, I’m pursuing my B.Sc. (Hons), specializing in **Cloud Computing** at **RV University**. With a strong foundation in **ethical hacking**, bolstered by advanced certifications from **IIT Guwahati**, I’m on a mission to tackle the ever-evolving challenges of the cybersecurity landscape.</span>
 
 ---
 
