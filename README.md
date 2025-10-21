@@ -1,106 +1,119 @@
-## Hi there 👋
+<h1 align="center" style="color:#FF3C6E; text-shadow:0 0 5px #fff,0 0 10px #FF3C6E,0 0 20px #FF3C6E,0 0 40px #FF3C6E;">
+  👋 Hi, I'm Dhruvi Mittal
+</h1>
 
-<!--
-**Dhruvi-tech/dhruvi-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# <span style="font-size: 3em; font-weight: bold;">👋 Hi, I’m Dhruvi Mittal!</span>
-
-<span style="font-size: 1.2em; color: #2c3e50;">Welcome to my GitHub! I’m a passionate **Cybersecurity Explorer** with a relentless drive to crack codes and secure the future of the digital world. Currently, I’m pursuing my B.Sc. (Hons), specializing in **Cloud Computing** at **RV University**. With a strong foundation in **ethical hacking**, bolstered by advanced certifications from **IIT Guwahati**, I’m on a mission to tackle the ever-evolving challenges of the cybersecurity landscape.</span>
+<p align="center" style="color:#F5F5F5; font-size:20px;">
+  Second Year BSc(Hons) Cloud Computing | Cybersecurity Enthusiast | Cloud Explorer<br/>
+  Securing the digital world <strong>one line of code</strong> at a time 🔐
+</p>
 
 ---
 
-## <span style="font-size: 2em; color: #e74c3c; font-weight: bold;">🌟 About Me:</span>
+## 🚀 About Me  
 
-<span style="font-size: 1.2em; color: #34495e;">
-- 🔭 <strong>Current Work:</strong>  
-   - <span style="font-size: 1.1em; color: #3498db;">Contributor at GirlScript Summer of Code</span> – Actively working on open-source projects, contributing code, and solving real-world cybersecurity challenges.
-   - <span style="font-size: 1.1em; color: #3498db;">Intern at Acmegrade</span> – Gaining hands-on experience in network security, ethical hacking, and vulnerability assessments. I’m learning to bridge the gap between academic knowledge and practical application.
-
-- 🌱 <strong>Learning Focus:</strong>  
-   I’m currently diving deep into:  
-   - **Ethical Hacking** 🔐  
-   - **Advanced Cybersecurity Tools** 🛠️  
-   - **Boolean Logic & Security Algorithms** 🧠  
-   I constantly update my knowledge base with the latest industry trends, attending cybersecurity conferences and working with cutting-edge technology.
-
-- 👯 <strong>Looking to Collaborate On:</strong>  
-   I’m always excited to collaborate on:
-   - **Penetration Testing** 🕵️‍♀️ – identifying vulnerabilities before attackers can.  
-   - **Vulnerability Assessments** ⚠️ – ensuring that systems are robust and secure.  
-   - **Security Audits** 🔍 – auditing network security for organizations.  
-   - **Cybersecurity Research Projects** 🖥️ – exploring innovations in cybersecurity defenses, and contributing to meaningful, impactful research.
-  
-   If you’re passionate about **network defense**, **system vulnerabilities**, or **cyber defense research**, let’s connect and build something powerful together!
-
-- 💬 <strong>Expertise:</strong>  
-   I have strong experience in:  
-   - **Ethical Hacking Essentials** 🛡️ – certified in techniques to protect and secure networks.
-   - **Postman API Fundamentals** 📡 – understanding and utilizing APIs for secure data exchange.
-   - **Network Security Strategies** 🔗 – developing and implementing secure network protocols.
-   - **Boolean Logic** 🧠 – applying logic in cybersecurity algorithms and system defenses.
-  
-   I thrive on sharing my knowledge and collaborating to secure the future of the digital world.
-
-- 📚 <strong>Certifications:</strong>  
-   - Advanced Certification in Cybersecurity from IIT Guwahati 🎓  
-   - CCSP Certified Training 🏆  
-   - Ethical Hacking Essentials 🧑‍💻  
-   These certifications have provided me with the skills and expertise needed to tackle today’s advanced cybersecurity threats. Through my hands-on experience in internships and open-source contributions, I’ve honed my practical skills to solve real-world security problems.
-</span>
+- 🔭 **Working On:** Cutting-edge Cloud Security + Ethical Hacking Integration  
+- 🌱 **Currently Learning:**  
+  - AI-Driven Security Analytics in Cloud Environments  
+  - Multi-Cloud Management (AWS, GCP, Azure)  
+  - Cloud Security Posture Management (CSPM)  
+  - Infrastructure as Code (Terraform & CloudFormation)  
+  - Container Security & Kubernetes Hardening  
+  - Serverless Security & Cloud Automation  
+- 🎮 **Hobbies:** Music, Gaming, Traveling & Coding  
+- 🌌 **Fun Fact:** Passionate about space, tech, and continuous learning  
 
 ---
 
-## <span style="font-size: 2em; color: #f39c12; font-weight: bold;">🎯 Career Goals:</span>
+## 🌐 Tech Stack  
 
-<details>
-  <summary style="font-size: 1.2em; color: #16a085;">Click to reveal my career goals</summary>
-  
-  <span style="font-size: 1.2em; color: #34495e;">
-  - Securing the future by contributing to the global cybersecurity community and staying ahead of new, emerging threats. I aim to make the digital world a safer place through ethical hacking, advanced research, and the latest security techniques.
-  - Collaborating with professionals and organizations to develop and implement innovative cybersecurity solutions. I’m particularly interested in penetration testing, digital forensics, and cryptography.
-  - Expanding my expertise in fields such as threat intelligence, cyber law, and digital privacy, aiming to be at the forefront of cybersecurity innovation.
-  </span>
-
-</details>
-
----
-
-## <span style="font-size: 2em; color: #9b59b6; font-weight: bold;">📫 Contact & Fun Facts:</span>
-
-<details>
-  <summary style="font-size: 1.2em; color: #2980b9;">Click to learn more about me!</summary>
-  
-  <span style="font-size: 1.2em; color: #34495e;">
-  - 📫 How to Reach Me:  
-     - Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvi-mittal/) for professional inquiries.  
-     - Or email me directly at dhruvimittal2066@gmail.com.
-
-  - 😄 **Pronouns**: She/Her
-
-  - ⚡ **Fun Fact**:  
-     Outside of cybersecurity, I’m a curious foodie 🍜 and an avid traveler✈️! I enjoy experimenting with new recipes and exploring diverse cultures. When I’m not cooking or traveling, you’ll likely find me listening to music 🎶—it helps me stay focused and creative while solving tough problems.
-  </span>
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glow" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=glow" />
+</p>
 
 ---
 
-### <span style="font-size: 2em; color: #27ae60; font-weight: bold;">🔒 "Stay Secure, Stay Ahead!"</span>
+## 🧩 Featured Projects  
 
- <summary><b>Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
+<div align="center" style="display:flex; gap:20px; overflow-x:auto; padding:20px;">
+  <a href="https://github.com/Dhruvi-tech/firebase-chat-app" title="Firebase Chat App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvi-tech&repo=firebase-chat-app&theme=radical&border_radius=16" />
+  </a>
+  <a href="https://github.com/Dhruvi-tech/Quote_app" title="Quote App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvi-tech&repo=Quote_app&theme=radical&border_radius=16" />
+  </a>
+  <a href="https://github.com/Dhruvi-tech/File-Encryption-Tool" title="File Encryption Tool" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvi-tech&repo=File-Encryption-Tool&theme=radical&border_radius=16" />
+  </a>
 </div>
-</details>
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvi-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvi-tech&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- Snake animation -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Snake" />
+</p>
+
+---
+
+## 📚 Learning & Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/Cloud_Security-FF6F00?style=for-the-badge&animation=glow" />
+  <img src="https://img.shields.io/badge/Cybersecurity-008000?style=for-the-badge&animation=glow" />
+  <img src="https://img.shields.io/badge/Red_Teaming-FF0000?style=for-the-badge&animation=glow" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-800080?style=for-the-badge&animation=glow" />
+</p>
+
+---
+
+## 💡 Personal Motto  
+
+> "Securing the digital world one line of code at a time."  
+> Music fuels my coding sessions.  
+> Always curious, always learning 🚀
+
+---
+
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruvi-mittal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruvi_Mittal-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=glow" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dhruvimittal2066@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dhruvimittal2066@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&animation=glow" />
+  </a>
+</p>
+
+---
+
+## 🌟 Highlights  
+
+- <img src="https://komarev.com/ghpvc/?username=Dhruvi-tech&style=flat-square" alt="Profile views" /> Profile views  
+- 📊 Open Source Contributions across 10+ repos  
+- 🚀 Hackathons & Security CTFs participant  
+
+---
+
+## 🎉 Thank You for visiting my profile!  
+
+> Let’s innovate & secure the future together. 🚀
