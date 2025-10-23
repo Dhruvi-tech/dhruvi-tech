@@ -70,13 +70,10 @@ life_motto: "Dream big, code bigger! ✨"
 </div>
 
 ---
-<div align="center">
-  <h1>📊 Contribution Activity</h1>
-  <p>Watch my contributions come to life as a snake! 🐍</p>
-</div>
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Dhruvi-tech/dhruvi-tech/main/dist/github-snake.svg" alt="Snake animation" />
 </div>
 ---
 
