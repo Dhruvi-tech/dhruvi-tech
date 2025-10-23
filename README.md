@@ -47,24 +47,6 @@ life_motto: "Dream big, code bigger! ✨"
 
 <div align="center">
 
-## 🌈 Tech Stack
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bash,aws,gcp,azure,docker,kubernetes,react,nodejs,flask,git,vscode,linux&perline=8" />
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 GitHub Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruvi-tech&show_icons=true&theme=jolly&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=E0AAFF&text_color=FFFFFF&ring_color=C77DFF" />
@@ -88,15 +70,14 @@ life_motto: "Dream big, code bigger! ✨"
 </div>
 
 ---
-
 <div align="center">
-
-## 📈 Contribution Activity 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dhruvi-tech/dhruvi-tech/main/github-snake.svg" width="700">
+  <h1>📊 Contribution Activity</h1>
+  <p>Watch my contributions come to life as a snake! 🐍</p>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
 ---
 
 <div align="center">
