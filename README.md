@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,11&height=180&section=header&text=Hi%20there!%20I'm%20Dhruvi%20✨&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20|%20Cybersecurity%20Explorer%20|%20Tech%20Enthusiast&descSize=16&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,9370db,4169e1,20b2aa&height=180&section=header&text=Hi%20there!%20I'm%20Dhruvi%20✨&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20|%20Cybersecurity%20Explorer%20|%20Tech%20Enthusiast&descSize=16&descAlignY=55" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&random=false&width=700&lines=Securing+the+digital+world+%F0%9F%94%90;One+line+of+code+at+a+time+%F0%9F%92%BB;Learning+%26+Building+with+Passion+%E2%9C%A8;Cloud+%E2%98%81%EF%B8%8F+%7C+Security+%F0%9F%9B%A1%EF%B8%8F+%7C+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -140,6 +140,6 @@ life_motto: "Dream big, code bigger! ✨"
 
 **Dream big, code bigger! 🚀💜**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,11&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,9370db,4169e1,20b2aa&height=120&section=footer" />
 
 </div>
