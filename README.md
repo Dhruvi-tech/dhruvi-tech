@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- 🌈 Static Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hi%20there!%20I'm%20Dhruvi%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20|%20Cybersecurity%20Explorer%20|%20Tech%20Enthusiast&descSize=16&descAlignY=55&color=0:13171d,50:3a385e,100:0f141a" />
+<!-- 🌈 Enhanced Multi-Color Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hi%20there!%20I'm%20Dhruvi%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20|%20Cybersecurity%20Explorer%20|%20Tech%20Enthusiast&descSize=16&descAlignY=55&color=0:3a2b5f,25:7045a3,50:c77dff,75:6a5acd,100:00bcd4" />
 
-<!-- Typing Animation -->
+<!-- ⌨️ Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&random=false&width=700&lines=Securing+the+digital+world+%F0%9F%94%90;One+line+of+code+at+a+time+%F0%9F%92%BB;Learning+%26+Building+with+Passion+%E2%9C%A8;Cloud+%E2%98%81%EF%B8%8F+%7C+Security+%F0%9F%9B%A1%EF%B8%8F+%7C+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- Coding GIF -->
+<!-- 🎬 Coding GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
+
 
 ---
 
@@ -144,6 +145,8 @@ life_motto: "Dream big, code bigger! ✨"
 **Dream big, code bigger! 🚀💜**
 
 <!-- 🌈 Static Gradient Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:13171d,50:3a385e,100:0f141a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&customColorList=0:13171d,50:3a385e,100:0f141a" />
+
+
 
 </div>
