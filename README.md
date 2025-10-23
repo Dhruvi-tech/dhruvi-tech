@@ -1,119 +1,175 @@
-<h1 align="center" style="color:#FF3C6E; text-shadow:0 0 5px #fff,0 0 10px #FF3C6E,0 0 20px #FF3C6E,0 0 40px #FF3C6E;">
-  👋 Hi, I'm Dhruvi Mittal
-</h1>
+<div align="center">
 
-<p align="center" style="color:#F5F5F5; font-size:20px;">
-  Second Year BSc(Hons) Cloud Computing | Cybersecurity Enthusiast | Cloud Explorer<br/>
-  Securing the digital world <strong>one line of code</strong> at a time 🔐
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Dhruvi%20✨&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Student%20|%20Cybersecurity%20Explorer%20|%20Tech%20Enthusiast&descSize=16&descAlignY=55" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&random=false&width=700&lines=Securing+the+digital+world+%F0%9F%94%90;One+line+of+code+at+a+time+%F0%9F%92%BB;Learning+%26+Building+with+Passion+%E2%9C%A8;Cloud+%E2%98%81%EF%B8%8F+%7C+Security+%F0%9F%9B%A1%EF%B8%8F+%7C+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
 
-## 🚀 About Me  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-- 🔭 **Working On:** Cutting-edge Cloud Security + Ethical Hacking Integration  
-- 🌱 **Currently Learning:**  
-  - AI-Driven Security Analytics in Cloud Environments  
-  - Multi-Cloud Management (AWS, GCP, Azure)  
-  - Cloud Security Posture Management (CSPM)  
-  - Infrastructure as Code (Terraform & CloudFormation)  
-  - Container Security & Kubernetes Hardening  
-  - Serverless Security & Cloud Automation  
-- 🎮 **Hobbies:** Music, Gaming, Traveling & Coding  
-- 🌌 **Fun Fact:** Passionate about space, tech, and continuous learning  
-
----
-
-## 🌐 Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glow" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=glow" />
-</p>
-
----
-
-## 🧩 Featured Projects  
-
-<div align="center" style="display:flex; gap:20px; overflow-x:auto; padding:20px;">
-  <a href="https://github.com/Dhruvi-tech/firebase-chat-app" title="Firebase Chat App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvi-tech&repo=firebase-chat-app&theme=radical&border_radius=16" />
-  </a>
-  <a href="https://github.com/Dhruvi-tech/Quote_app" title="Quote App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvi-tech&repo=Quote_app&theme=radical&border_radius=16" />
-  </a>
-  <a href="https://github.com/Dhruvi-tech/File-Encryption-Tool" title="File Encryption Tool" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvi-tech&repo=File-Encryption-Tool&theme=radical&border_radius=16" />
-  </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvi-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvi-tech&layout=compact&theme=radical" />
-</p>
+### 💫 About Me
 
-<p align="center">
-  <!-- Snake animation -->
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Snake" />
-</p>
+```yaml
+role: Cloud Computing Student (Year 2)
+education: BSc (Hons) Cloud Computing
+passion: 
+  - ☁️ Cloud Architecture
+  - 🔐 Cybersecurity & Ethical Hacking
+  - 🌐 Full Stack Development
+  - 💜 Open Source Contribution
 
----
+currently_exploring:
+  - AWS Cloud Platform
+  - Python & JavaScript
+  - Docker & Kubernetes
+  - React & Web Development
+  - Cryptography Basics
+  - Linux & DevOps
 
-## 📚 Learning & Skills  
+vibe_check:
+  - 🎵 Music lover
+  - 🎮 Gaming enthusiast
+  - ✈️ Travel dreamer
+  - 💻 Tech explorer
+  - 🌸 Aesthetic coder
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Cloud_Security-FF6F00?style=for-the-badge&animation=glow" />
-  <img src="https://img.shields.io/badge/Cybersecurity-008000?style=for-the-badge&animation=glow" />
-  <img src="https://img.shields.io/badge/Red_Teaming-FF0000?style=for-the-badge&animation=glow" />
-  <img src="https://img.shields.io/badge/Ethical_Hacking-800080?style=for-the-badge&animation=glow" />
-</p>
+life_motto: "Dream big, code bigger! ✨"
+```
 
----
-
-## 💡 Personal Motto  
-
-> "Securing the digital world one line of code at a time."  
-> Music fuels my coding sessions.  
-> Always curious, always learning 🚀
-
----
-
-## 🔗 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruvi-mittal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhruvi_Mittal-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=glow" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dhruvimittal2066@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dhruvimittal2066@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&animation=glow" />
-  </a>
-</p>
+<br clear="right"/>
 
 ---
 
-## 🌟 Highlights  
+<div align="center">
 
-- <img src="https://komarev.com/ghpvc/?username=Dhruvi-tech&style=flat-square" alt="Profile views" /> Profile views  
-- 📊 Open Source Contributions across 10+ repos  
-- 🚀 Hackathons & Security CTFs participant  
+## 🌈 Tech Stack
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash,aws,gcp,azure,docker,kubernetes,react,nodejs,flask,git,vscode,linux&perline=8" />
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
 
 ---
 
-## 🎉 Thank You for visiting my profile!  
+<div align="center">
 
-> Let’s innovate & secure the future together. 🚀
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruvi-tech&show_icons=true&theme=jolly&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=E0AAFF&text_color=FFFFFF&ring_color=C77DFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvi-tech&theme=jolly&hide_border=true&background=0D1117&stroke=C77DFF&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvi-tech&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=FFFFFF" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhruvi-tech&theme=radical&utcOffset=5.5" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Achievements & Trophies
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+
+![](https://github-profile-trophy.vercel.app/?username=Dhruvi-tech&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)
+
+</div>
+
+---
+
+<div align="center">
+
+## ## 📈 Contribution Activity 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dhruvi-tech/<repo-name>/main/github-snake/github-snake.svg" width="700">
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Learning Journey
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+
+| 🎯 Goal | 📚 Learning | 📊 Progress |
+|---------|-------------|-------------|
+| ☁️ AWS Cloud Practitioner | Cloud Fundamentals | ![25%](https://geps.dev/progress/25?dangerColor=C77DFF&warningColor=C77DFF&successColor=C77DFF) |
+| 🐍 Python Mastery | Core Programming | ![40%](https://geps.dev/progress/40?dangerColor=C77DFF&warningColor=C77DFF&successColor=C77DFF) |
+| 🌐 Full Stack Development | Web Technologies | ![35%](https://geps.dev/progress/35?dangerColor=C77DFF&warningColor=C77DFF&successColor=C77DFF) |
+| 🔐 Cybersecurity | Security Fundamentals | ![25%](https://geps.dev/progress/25?dangerColor=C77DFF&warningColor=C77DFF&successColor=C77DFF) |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Daily Inspiration
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Securing%20the%20digital%20world,%20one%20line%20of%20code%20at%20a%20time&author=Dhruvi%20Mittal" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+## 🎵 Vibing While Coding
+
+> *Music is my coding fuel* 🎧💜
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+
+**Gaming** 🎮 • **Traveling** ✈️ • **Music** 🎵 • **Coding** 💻 • **Learning** 📚
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+
+## 💌 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-mittal/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvi-tech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvimittal2066@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF3C6E?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Dhruvi-tech&label=Profile%20Views&color=C77DFF&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for stopping by! ✨
+
+<img src="https://user-images.githubusercontent.com/74038190/216649426-3a334b3c-eab9-4e54-9848-6448d8d64d5f.gif" width="500">
+
+**Dream big, code bigger! 🚀💜**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
