@@ -70,11 +70,27 @@ life_motto: "Dream big, code bigger! ✨"
 </div>
 
 ---
-## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/Dhruvi-tech/dhruvi-tech/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+## 💜 My Coding Journey ✨
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+### 🌸 Activity Graph 🌸
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### ✨ Contribution Heatmap ✨
+
+<img src="https://ghchart.rshah.org/C77DFF/Dhruvi-tech" alt="Dhruvi's GitHub chart" width="100%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+
 </div>
+
 ---
 
 <div align="center">
