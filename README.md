@@ -61,17 +61,9 @@ life_motto: "Dream big, code bigger! ✨"
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+## 💖✨ Contribution Activity ✨💖
 
-## 🌸✨ Contribution Activity ✨🌸
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=true&custom_title=💖%20My%20Coding%20Journey%20💖" width="100%" />
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=ff69b4&line=ff1493&point=ffc0cb&area=true&hide_border=true&custom_title=🌸%20My%20Girly%20Coding%20Journey%20🌸" width="100%" />
 
 </div>
 
