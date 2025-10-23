@@ -63,11 +63,7 @@ life_motto: "Dream big, code bigger! ✨"
 
 ## 💖✨ Contribution Activity ✨💖
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&random=false&width=600&lines=🌸+Coding+with+passion+🌸;💖+Building+dreams+💖;✨+Creating+magic+✨" />
-
-<img src="https://raw.githubusercontent.com/Dhruvi-tech/Dhruvi-tech/output/github-contribution-grid-snake.svg" />
-
-<img src="https://ghchart.rshah.org/C77DFF/Dhruvi-tech" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
