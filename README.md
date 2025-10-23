@@ -91,10 +91,10 @@ life_motto: "Dream big, code bigger! ✨"
 
 <div align="center">
 
-## ## 📈 Contribution Activity 
+## 📈 Contribution Activity 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dhruvi-tech/<repo-name>/main/github-snake/github-snake.svg" width="700">
+  <img src="https://raw.githubusercontent.com/Dhruvi-tech/dhruvi-tech/main/github-snake.svg" width="700">
 </div>
 
 ---
