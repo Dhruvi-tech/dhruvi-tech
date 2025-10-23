@@ -61,35 +61,17 @@ life_motto: "Dream big, code bigger! ✨"
 
 <div align="center">
 
-## 🏆 Achievements & Trophies
+## 💖 My Coding Journey 🌸
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-![](https://github-profile-trophy.vercel.app/?username=Dhruvi-tech&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)
+### ✨ Pretty Activity Graph ✨
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
----
-
-<div align="center">
-
-## ⚡ Development Analytics & Metrics
-
-### 📈 Contribution Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="100%" />
-
-### 🔥 Commit Heatmap & Patterns
+### 🌺 Contribution Heatmap 🌺
 <img src="https://ghchart.rshah.org/C77DFF/Dhruvi-tech" alt="GitHub Contribution Heatmap" width="100%" />
-
-### 📊 Detailed Contribution Metrics
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhruvi-tech&theme=radical" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhruvi-tech&theme=radical" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhruvi-tech&theme=radical" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhruvi-tech&theme=radical&utcOffset=5.5" />
-
-### 🎯 Code Quality & Performance
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruvi-tech&theme=radical" width="100%" />
 
 </div>
 
