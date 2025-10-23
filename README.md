@@ -67,8 +67,6 @@ life_motto: "Dream big, code bigger! ✨"
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=true&custom_title=💖%20My%20Coding%20Journey%20💖" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
 </div>
 
 ---
