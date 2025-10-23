@@ -73,7 +73,7 @@ life_motto: "Dream big, code bigger! ✨"
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dhruvi-tech/dhruvi-tech/main/dist/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Dhruvi-tech/dhruvi-tech/output/github-snake.svg" alt="Snake animation" />
 </div>
 ---
 
