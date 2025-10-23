@@ -63,7 +63,7 @@ life_motto: "Dream big, code bigger! ✨"
 
 ## 💖✨ Contribution Activity ✨💖
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&random=false&width=600&lines=🌸+Coding+with+passion+🌸;💖+Building+dreams+💖;✨+Creating+magic+✨" alt="Animated Text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&random=false&width=600&lines=🌸+Coding+with+passion+🌸;💖+Building+dreams+💖;✨+Creating+magic+✨" />
 
 </div>
 
