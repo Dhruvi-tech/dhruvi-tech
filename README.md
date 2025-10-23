@@ -61,11 +61,9 @@ life_motto: "Dream big, code bigger! ✨"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=80&section=header&text=💖%20Coding%20Stats%20💖&fontSize=25&fontColor=fff&animation=fadeIn" />
+## 💖✨ Contribution Activity ✨💖
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=true&animation=true&theme=react-dark" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruvi-tech&theme=radical" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&random=false&width=600&lines=🌸+Coding+with+passion+🌸;💖+Building+dreams+💖;✨+Creating+magic+✨" alt="Animated Text" />
 
 </div>
 
