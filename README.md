@@ -61,21 +61,13 @@ life_motto: "Dream big, code bigger! ✨"
 
 <div align="center">
 
-## 💕✨ My Aesthetic Coding Journey ✨💕
-
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-### 🌸 Contribution Snake 🌸
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruvi-tech/Dhruvi-tech/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruvi-tech/Dhruvi-tech/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dhruvi-tech/Dhruvi-tech/output/snake.svg">
-</picture>
+## 🌸✨ Contribution Activity ✨🌸
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=true&custom_title=💖%20My%20Coding%20Journey%20💖" width="100%" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-### 🌺 Pretty Contribution Graph 🌺
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi-tech&bg_color=0D1117&color=C77DFF&line=E0AAFF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Activity" width="100%" />
 
 </div>
 
