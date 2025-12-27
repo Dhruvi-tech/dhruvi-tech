@@ -53,10 +53,6 @@ life_motto: "Dream big, code bigger! ✨"
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruvi-tech&show_icons=true&theme=jolly&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=E0AAFF&text_color=FFFFFF&ring_color=C77DFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvi-tech&theme=jolly&hide_border=true&background=0D1117&stroke=C77DFF&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvi-tech&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=FFFFFF" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhruvi-tech&theme=radical&utcOffset=5.5" />
 
 </div>
